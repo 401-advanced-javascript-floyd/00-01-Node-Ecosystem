@@ -20,3 +20,9 @@ describe('subtract', () => {
     expect(arithmetic.subtract([30,8,1,2])).toStrictEqual(-41);
   });
 });
+
+// describe('greet', () => {
+//   test('It should geet person with name' , () => {
+//     expect(arithmetic.greet([30,8,1,2])).toStrictEqual(-41);
+//   });
+// });
